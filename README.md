@@ -51,9 +51,10 @@ src/
 │   └── resources/
 │       └── application.yml
 └── test/
-    ├── unit/
-    ├── integration/
-    └── e2e/
+    └── java/com.example.productsorting/
+        ├── unit/
+        ├── integration/
+        └── e2e/
 ```
 
 ---
