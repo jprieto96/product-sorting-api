@@ -1,15 +1,15 @@
 
 # 🧩 Product Sorting Service
 
-Servicio REST desarrollado para el caso práctico **Back-End Tools 2025**. Permite ordenar productos de una categoría de camisetas según criterios ponderados (ventas y ratio de stock), aplicando arquitectura hexagonal y principios de Domain-Driven Design (DDD).
+Servicio REST desarrollado para el caso práctico. Permite ordenar productos de una categoría de camisetas según criterios ponderados (ventas y ratio de stock), aplicando arquitectura hexagonal y principios de Domain-Driven Design (DDD).
 
 ---
 
 ## 🚀 Tecnologías utilizadas
 
 - Java 17
-- Spring Boot 3.x
-- MongoDB
+- Spring Boot 3.5.0
+- MongoDB 8
 - Arquitectura Hexagonal (Ports & Adapters)
 - DDD Táctico
 - REST API
@@ -62,6 +62,10 @@ src/
 ## 📦 Levantar el proyecto localmente
 
 ### 1. Clonar o descomprimir el proyecto
+
+```bash
+git clone https://github.com/jprieto96/product-sorting-api.git
+```
 
 ```bash
 unzip product-sorting-service.zip
