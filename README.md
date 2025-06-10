@@ -66,7 +66,7 @@ src/
 ```bash
 git clone https://github.com/jprieto96/product-sorting-api.git
 cd product-sorting-api
-
+```
 
 ```bash
 unzip product-sorting-api.zip
