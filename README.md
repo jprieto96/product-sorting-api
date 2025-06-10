@@ -65,11 +65,12 @@ src/
 
 ```bash
 git clone https://github.com/jprieto96/product-sorting-api.git
-```
+cd product-sorting-api
+
 
 ```bash
-unzip product-sorting-service.zip
-cd product-sorting-service
+unzip product-sorting-api.zip
+cd product-sorting-api
 ```
 
 ### 2. Levantar MongoDB con Docker
