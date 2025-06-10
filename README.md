@@ -88,7 +88,7 @@ Puedes ejecutar el proyecto desde tu IDE favorito o con Maven:
 ```bash
 ./mvnw spring-boot:run
 ```
-Al ejecutar el servicio se ejecutará automáticamente una inserción en mongo con una colección de prueba:
+Al ejecutar el servicio se ejecutará automáticamente una inserción en mongo con una colección para poder probar la ordenación posteriormente:
 
 ```
 ID Name Sales_Units Stocks
