@@ -133,14 +133,13 @@ Content-Type: application/json
 ## 🧠 Mejora futura
 
 - Añadir más criterios de puntuación (modularización ya preparada)
-- Implementar interfaz HATEOAS para la API
-- Añadir validación y documentación Swagger
+- Utilizar mockito para mockear las llamadas a mongo en los tests de integración
+- Añadir documentación Swagger
 
 ---
 
 ## 👨‍💻 Autor
 
-Desarrollado por [Tu Nombre] para el caso práctico **Back-End Tools 2025**.  
-Arquitectura limpia, mantenible y preparada para evolucionar.
+Desarrollado por Jose Prieto.
 
 ---
