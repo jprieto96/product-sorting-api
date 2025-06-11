@@ -148,6 +148,7 @@ Content-Type: application/json
 
 ## 🧠 Mejora futura
 
+- Añadir más cobertura a cada uno de los tests con cada una de las casuisticas
 - Añadir más criterios de puntuación (modularización ya preparada)
 - Utilizar mockito para mockear las llamadas a mongo en los tests de integración
 - Añadir documentación Swagger
